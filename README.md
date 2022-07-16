@@ -7,9 +7,9 @@
 
 ## My GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DaHyper&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DaHyper&count_private=true&theme=radical)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaHyper&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaHyper&layout=compact&theme=radical)]
 
 
 <!--

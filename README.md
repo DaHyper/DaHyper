@@ -7,7 +7,7 @@
 
 ## My GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DaHyper&hide=stars,prs&count_private=true&theme=radical)](https://github.com/DaHyper)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DaHyper&hide=stars,prs&count_private=false&theme=radical)](https://github.com/DaHyper)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaHyper&count_private=true&layout=compact&theme=radical)](https://github.com/DaHyper)

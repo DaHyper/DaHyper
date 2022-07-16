@@ -6,7 +6,8 @@
 
 
 ## My GitHub Stats
-[!(https://github-readme-stats.vercel.app/api?username=DaHyper&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<a/>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DaHyper&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaHyper&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 

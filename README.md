@@ -10,7 +10,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=DaHyper&hide=stars,prs&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/DaHyper)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaHyper&count_private=true&layout=compact&theme=radical)](https://github.com/DaHyper)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaHyper&count_private=false&layout=compact&theme=radical)](https://github.com/DaHyper)
 
 
 <!--
